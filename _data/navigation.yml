@@ -1,0 +1,25 @@
+# main links
+main:
+  - title: "Animations"
+    url: /animations/
+
+  - title: "Codes"
+    url: /codes/
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Students"
+    url: /students/
+
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Wisdom & Whimsy"
+    url: /wisdom_and_whimsy/
